@@ -1,7 +1,7 @@
 import light
 import random
 ###Settings###########################################
-modes = ['police', 'animation', 'policeAI', 'buntAI', 'ChatGPT_buntAI_v1', 'ChatGPT_buntAI_v2', 'ChatGPT_buntAI_v3', 'ChatGPT_buntAI_v4', 'ChatGPT_buntAI_v5', ]
+modes = ['police', 'animation', 'policeAI', 'buntAI', 'ChatGPT_buntAI_v1', 'ChatGPT_buntAI_v2', 'ChatGPT_buntAI_v3', 'ChatGPT_buntAI_v4', 'ChatGPT_buntAI_v5']
 count = 10
 mode = random.choice(modes)
 # police, animation, policeAI, buntAI, ChatGPT_buntAI[v1,v2,v3,v4,v5]
